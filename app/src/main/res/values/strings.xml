@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-tilang</string>
+    <string name="image">image</string>
+    <string name="nama">Nama  :</string>
+    <string name="nomer"> 0895416065739 </string>
+    <string name="fita_putri">Fita Putri</string>
+    <string name="_0895416065739">0895416065739</string>
+    <string name="login" />
+    <string name="register" />
+</resources>
