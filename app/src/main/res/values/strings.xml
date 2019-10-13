@@ -7,4 +7,6 @@
     <string name="_0895416065739">0895416065739</string>
     <string name="login"> Login</string>
     <string name="register"> Register </string>
+    <string name="home"> Home </string>
+    <string name="my_profil">My Profil</string>
 </resources>
