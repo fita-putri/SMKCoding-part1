@@ -5,6 +5,6 @@
     <string name="nomer"> 0895416065739 </string>
     <string name="fita_putri">Fita Putri</string>
     <string name="_0895416065739">0895416065739</string>
-    <string name="login" />
-    <string name="register" />
+    <string name="login"> Login</string>
+    <string name="register"> Register </string>
 </resources>
